@@ -13,9 +13,9 @@ const Main: React.FC = () => {
                     I was born in April 15th
                 </p>
                 <div className='flex justify-center gap-6 mt-4'>
-                    <img src="Komi.jpg" alt="Adriel" className='h-48 rounded-md' /> 
-                    <img src="Yo.jpg" alt="Adriel" className='h-48 rounded-md' />
-                    <img src="Cat.jpg" alt="Adriel" className='h-48 rounded-md' />
+                    <img src="Komi.jpg" alt="Adriel" className='h-20 lg:h-48 rounded-md' /> 
+                    <img src="Yo.jpg" alt="Adriel" className='h-20 lg:h-48 rounded-md' />
+                    <img src="Cat.jpg" alt="Adriel" className='h-20 lg:h-48 rounded-md' />
                 </div>
             </div>
 
@@ -49,8 +49,9 @@ const Main: React.FC = () => {
                     <h2 className='text-xl font-semibold mt-4 '>Tools, libraries and frmeworks</h2>
                     <div className='flex justify-center gap-6 mt-4'>
                         <img src="FastAPI.png" alt="FastAPI" className='h-12' />
-                        <img src="React.png" alt="FastAPI" className='h-12' />
-
+                        <img src="React.png" alt="React" className='h-12' />
+                        <img src="Bootstrap.png" alt="Bootstrap" className='h-12' />
+                        <img src="Tailwind.png" alt="Tailwind" className='h-12' />
                     </div>
                 </div>
             </div>
