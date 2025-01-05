@@ -11,6 +11,7 @@ const App: React.FC = () => {
       {/* Background envuelve todas las rutas */}
       <Background>
         <Routes>
+        <Route path="/" element={<Main />} />
           <Route path="/main" element={<Main />} />
           <Route path="/proyects" element={<Proyects />} />
           <Route path="/contact" element={<Contact />} />

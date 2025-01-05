@@ -13,9 +13,7 @@ const Main: React.FC = () => {
                     I was born in April 15th
                 </p>
                 <div className='flex justify-center gap-6 mt-4'>
-                    <img src="Komi.jpg" alt="Adriel" className='h-20 lg:h-48 rounded-md' /> 
-                    <img src="Yo.jpg" alt="Adriel" className='h-20 lg:h-48 rounded-md' />
-                    <img src="Cat.jpg" alt="Adriel" className='h-20 lg:h-48 rounded-md' />
+                    <img src="Yo.jpg" alt="Adriel" className='h-48 lg:h-48 rounded-md' />
                 </div>
             </div>
 

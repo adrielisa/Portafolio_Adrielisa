@@ -1,6 +1,6 @@
 const Contact = () => {
     return (
-        <div className=" ">
+        <div className="lg:text-xl">
             {/* Contenido de la vista (si es necesario agregar algo más) */}
 
             {/* Redes Sociales */}
