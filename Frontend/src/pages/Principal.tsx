@@ -44,7 +44,7 @@ const Main: React.FC = () => {
 
                 {/*Tools, libraries and frmeworks*/}
                 <div className='mb-8'>
-                    <h2 className='text-xl font-semibold mt-4 '>Tools, libraries and frmeworks</h2>
+                    <h2 className='text-xl font-semibold mt-4 '>Tools, libraries and frameworks</h2>
                     <div className='flex justify-center gap-6 mt-4'>
                         <img src="FastAPI.png" alt="FastAPI" className='h-12' />
                         <img src="React.png" alt="React" className='h-12' />
