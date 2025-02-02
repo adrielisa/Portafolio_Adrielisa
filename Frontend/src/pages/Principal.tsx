@@ -5,20 +5,18 @@ const Main: React.FC = () => {
         <div>
             {/* */}
             <div className="text-white text-center pt-4">
-                <h1 className="text-4xl font-medium">¿Who am I?</h1>
-                <p className='p-8 pl-10 pr-10 lg:pl-80 lg:pr-80 text-center lg:text-lg'>
-                    Hi, I am adriel Isai Rodriguez Pacheco, a student from software engineering from cancún méxico.
+                <h1 className="text-4xl font-medium">Adrielisa's</h1>
+                <p className='p-8 pl-20 pr-20 lg:pl-80 lg:pr-80 text-center lg:text-lg'>
+                    Hi, I am adriel Isai Rodriguez Pacheco, a student from software engineering from cancún, México
                 </p>
-                <p className='lg:text-lg'>
-                    I was born in April 15th
-                </p>
+
                 <div className='flex justify-center gap-6 mt-4'>
                     <img src="Yo.jpg" alt="Adriel" className='h-48 lg:h-48 rounded-md' />
                 </div>
             </div>
 
             <div className='text-white text-center pt-10'>
-                <h1 className="text-4xl font-medium ">What I know</h1>
+                <h2 className="text-4xl font-medium ">What I know</h2>
 
                 {/*Languages*/}
                 <div className='mb-8'>
