@@ -7,7 +7,7 @@ const Main: React.FC = () => {
             <div className="text-white text-center pt-4">
                 <h1 className="text-4xl font-medium">Adrielisa's</h1>
                 <p className='p-8 pl-20 pr-20 lg:pl-80 lg:pr-80 text-center lg:text-lg'>
-                    Hi, I am adriel Isai Rodriguez Pacheco, a student from software engineering from cancún, México
+                    Hi, I am adriel Isai Rodriguez Pacheco from cancún, México
                 </p>
 
                 <div className='flex justify-center gap-6 mt-4'>
