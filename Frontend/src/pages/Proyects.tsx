@@ -89,7 +89,7 @@ const Proyects = () => {
                                 <img className="h-6 hover:scale-110 transition-transform" src="JavaScript.png" alt="JavaScript" title="JavaScript" />
                                 <img className="h-6 hover:scale-110 transition-transform" src="Tailwind.png" alt="Tailwind" title="Tailwind" />
                                 <img className="h-6 hover:scale-110 transition-transform" src="FastAPI.png" alt="FastAPI" title="FastAPI" />
-                                <img className="h-6 hover:scale-110 transition-transform" src="MongoDB.png" alt="MongoDB" title="MongoDB" />
+                                <img className="h-6 hover:scale-110 transition-transform" src="Mongo.png" alt="MongoDB" title="MongoDB" />
                             </div>
                         </div>
                     </div>
