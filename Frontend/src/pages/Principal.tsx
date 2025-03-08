@@ -11,16 +11,16 @@ const Main: React.FC = () => {
                 </p>
 
                 <div className='flex justify-center gap-6 mt-4'>
-                    <img src="Yo.jpg" alt="Adriel" className='h-48 lg:h-48 rounded-md' />
+                    <img src="/Yo.jpg" alt="Adriel" className='h-48 lg:h-48 rounded-md' />
                 </div>
             </div>
 
             <div className='text-white text-center pt-10'>
-                <h2 className="text-4xl font-medium ">What I know</h2>
+                <h2 className="text-4xl font-medium text-amber-200">What I know</h2>
 
                 {/*Languages*/}
                 <div className='mb-8'>
-                    <h2 className='text-xl font-semibold mt-4'>Languages</h2>
+                    <h2 className='text-xl font-semibold mt-4 text-amber-200'>Languages</h2>
                     <div className='flex justify-center gap-6 mt-4'>
                         <img src="/JavaScript.png" alt="JavaScript" className='h-12' />
                         <img src="/TypeScript.png" alt="TypeScript" className='h-12' />
@@ -32,28 +32,28 @@ const Main: React.FC = () => {
 
                 {/*Databases*/}
                 <div className='mb-8'>
-                    <h2 className='text-xl font-semibold mt-4'>Databases</h2>
+                    <h2 className='text-xl font-semibold mt-4 text-amber-200'>Databases</h2>
                     <div className='flex justify-center gap-6 mt-4'>
-                        <img src="MySQL.png" alt="MySQL" className='h-12' />
-                        <img src="PostgreSQL.png" alt="PostgreSQL" className='h-12' />
-                        <img src="Mongo.png" alt="MongoDB" className='h-12' />
+                        <img src="/MySQL.png" alt="MySQL" className='h-12' />
+                        <img src="/PostgreSQL.png" alt="PostgreSQL" className='h-12' />
+                        <img src="/Mongo.png" alt="MongoDB" className='h-12' />
                     </div>
                 </div>
 
-                {/*Tools, libraries and frmeworks*/}
+                {/*Tools, libraries and frameworks*/}
                 <div className='mb-8'>
-                    <h2 className='text-xl font-semibold mt-4 '>Tools, libraries and frameworks</h2>
+                    <h2 className='text-xl font-semibold mt-4 text-amber-200'>Tools, libraries and frameworks</h2>
                     <div className='flex justify-center gap-6 mt-4'>
-                        <img src="FastAPI.png" alt="FastAPI" className='h-12' />
-                        <img src="React.png" alt="React" className='h-12' />
-                        <img src="Bootstrap.png" alt="Bootstrap" className='h-12' />
-                        <img src="Tailwind.png" alt="Tailwind" className='h-12' />
+                        <img src="/FastAPI.png" alt="FastAPI" className='h-12' />
+                        <img src="/React.png" alt="React" className='h-12' />
+                        <img src="/Bootstrap.png" alt="Bootstrap" className='h-12' />
+                        <img src="/Tailwind.png" alt="Tailwind" className='h-12' />
                     </div>
                 </div>
             </div>
 
             <div className='text-white text-center pt-10'>
-                <h1 className="text-4xl font-medium ">What I want to be</h1>
+                <h2 className="text-4xl font-medium text-amber-200">What I want to be</h2>
                 <p className='p-8 pl-10 pr-10 lg:pl-80 lg:pr-80 text-center lg:text-lg'>
                     I aspire to craft technology that transcends utility, inspiring humanity to dream beyond the possible.
                     Through artificial intelligence, quantum computing, and boundless curiosity, I aim to build systems that
